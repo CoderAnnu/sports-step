@@ -1,0 +1,56 @@
+/*--------------------------------------------------------------
+Alerts
+--------------------------------------------------------------*/
+
+
+.alert {
+
+  &.alert-danger,
+  &.alert-warning,
+  &.alert-info,
+  &.alert-success {
+    padding-left: 3.25rem;
+  }
+
+  &::before {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    left: 1.25rem;
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+}
+
+
+// Add icons
+.alert-danger::before {
+  content: '\f071';
+}
+
+.alert-warning::before {
+  content: '\f06a';
+}
+
+.alert-info::before {
+  content: '\f05a';
+}
+
+.alert-success::before {
+  content: '\f058';
+}
+
+
+// Reset link colors
+.alert a:not(.alert a.btn) {
+  color: inherit;
+  font-weight: 700;
+}
+
+
+// Add alert-info to must-log-in comments
+.must-log-in {
+  @extend .alert;
+  @extend .alert-info;
+  @extend .mt-3;
+}

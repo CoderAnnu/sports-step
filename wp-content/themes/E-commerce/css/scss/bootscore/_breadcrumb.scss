@@ -1,0 +1,21 @@
+/*--------------------------------------------------------------
+Breadcrumb
+--------------------------------------------------------------*/
+
+
+// Make breadcrumb horizontally scrollable
+@include media-breakpoint-down(lg) {
+  .breadcrumb {
+    display: block !important;
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}
