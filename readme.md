@@ -21,7 +21,6 @@
     <a target="_blank"  rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/Single%20product%20page-%E2%80%93-E-commerce.png">
 	    <img src="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/Checkout-%E2%80%93-E-commerce.png" width="48%" alt="" style="max-width: 100%;"></a>
      
-	 IN Mobile 
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Mobile/E-commerce.png">
 	     <img src="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Mobile/Single%20product%20-E-commerce.png" width="48%" alt="" style="max-width: 100%;"></a>
 </div>
