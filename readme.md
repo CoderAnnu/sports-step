@@ -12,7 +12,7 @@
 <br />
 <div dir="auto">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/E-commerce.png">
-		<img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
+		<img src="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/E-commerce.png" width="48%" alt="" style="max-width: 100%;"></a>
        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/Shop-%E2%80%93-E-commerce.png">
 	       <img src="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/user-E-commerce.png" width="48%" alt="" style="max-width: 100%;"></a>
 </div>
@@ -21,7 +21,7 @@
     <a target="_blank"  rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/Single%20product%20page-%E2%80%93-E-commerce.png">
 	    <img src="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Desktop/Checkout-%E2%80%93-E-commerce.png" width="48%" alt="" style="max-width: 100%;"></a>
      
-	## IN Mobile 
+	 IN Mobile 
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Mobile/E-commerce.png">
 	     <img src="https://raw.githubusercontent.com/CoderAnnu/sports-step/main/Media/Mobile/Single%20product%20-E-commerce.png" width="48%" alt="" style="max-width: 100%;"></a>
 </div>
