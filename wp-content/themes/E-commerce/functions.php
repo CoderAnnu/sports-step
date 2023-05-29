@@ -322,6 +322,7 @@ if (!function_exists('bootscore_widgets_init')) :
 
 
   }
+//action widgets Hooks for all side-bar or and widegts in this theme  
   add_action('widgets_init', 'bootscore_widgets_init');
 
 
