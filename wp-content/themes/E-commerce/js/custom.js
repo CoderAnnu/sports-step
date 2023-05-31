@@ -1,3 +1,6 @@
+// load Custom js 
+
+
 jQuery(window).scroll(function () {
     var scroll = jQuery(window).scrollTop();
     if (scroll > 0) {
