@@ -1,6 +1,6 @@
 // load Custom js 
 
-
+// This function work for header scrolling conditions when header scroller then add bs 5 class shadow-sm and also remove border of the header
 jQuery(window).scroll(function () {
     var scroll = jQuery(window).scrollTop();
     if (scroll > 0) {
@@ -12,7 +12,7 @@ jQuery(window).scroll(function () {
     }
 });
 
-
+// this function work for product increase and decrease plus minus simble (Single product page)
 const updateQuantity = (action, qtyId) => {
     let qtyEL = document.querySelector(`#${qtyId}`);
 
