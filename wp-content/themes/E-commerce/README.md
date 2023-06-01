@@ -1,17 +1,3 @@
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/craftwerkberlin/bootscore-5/main/img/logo/logo.svg" height="50">
-</div>
-
-<div align="center">
- <h1>Bootstrap 5 + WordPress starter theme</h1>
- </div>
-
-
-Site: https://bootscore.me/
-
-Docs: https://bootscore.me/category/documentation/
-
 bootScore combines the Underscores theme boiler template with Bootstrap 5 in a small starter theme for great WordPress projects. There are no settings in the customizer, no logo-uploader and no drag'n'drop. bootScore is 100% customizable by using the .php, .scss and .js files. Basic coding skills for editing are required.
 
 bootScore comes with seamless Bootstrap integration and full WooCommerce support with an integrated ajax offcanvas cart.
